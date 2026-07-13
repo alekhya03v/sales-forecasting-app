@@ -48,8 +48,8 @@ If you want to run this dashboard on your own machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/alekhya03v/sales-forecasting-app.git
+   cd sales-forecasting-app
    ```
 
 2. **Install the dependencies:**
